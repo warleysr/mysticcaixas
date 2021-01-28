@@ -1,9 +1,9 @@
 mysql:
-  host: 'remotemysql.com'
+  host: '127.0.0.1'
   port: 3306
-  user: 'qT6PXAHc2r'
-  pass: '3PMDqo8d9H'
-  db: 'qT6PXAHc2r'
+  user: 'root'
+  pass: ''
+  db: 'plugins'
   reconectar: false
 item-girar:
   slot: 22
