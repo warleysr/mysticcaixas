@@ -1,0 +1,41 @@
+# GERAIS
+sem-permissao: '&7[&aMysticCaixas&7] &cVoce nao possui permissao para usar este comando.'
+somente-player: '&7[&aMysticCaixas&7] &cEste comando so pode ser usado in-game.'
+erro-critico: '&7[&aMysticCaixas&7] &cErro critico! Olhe o console e fale com o desenvolvedor.'
+sem-chaves: '&7[&aMysticCaixas&7] &cVoce nao possui chaves para esta caixa.'
+sem-espaco: '&7[&aMysticCaixas&7] &cTenha pelo menos 3 espacos vazios no inventario.'
+perdeu-itens: '&7[&aMysticCaixas&7] &cVoce perdeu alguns itens porque seu inventario nao havia espaco.'
+aproveite:
+- ' '
+- '&7[&aMysticCaixas&7] &aAproveite o seu premio! &e=)'
+- ' '
+
+# COMANDO /caixas
+sistema-indisponivel: '&7[&aMysticCaixas&7] &cO sistema esta temporariamente indisponivel. Fale com um staff.'
+bem-vindo: '&7[&aMysticCaixas&7] &eBem vindo a area de caixas. Boa sorte!'
+
+# COMANDO /setcaixas
+local-definido: '&7[&aMysticCaixas&7] &aLocal para as caixas definido.'
+
+# COMANDO /setcaixa
+uso-setcaixa: '&7[&aMysticCaixas&7] &cUso correto: /setcaixa <NomeDaCaixa>'
+caixa-nao-existe: '&7[&aMysticCaixas&7] &cEsta caixa nao existe. Configure no arquivo.'
+caixa-setada: '&7[&aMysticCaixas&7] &aLocal para a caixa &f@caixa &adefinido.'
+
+# COMANDO /chaves
+uso-chaves: '&7[&aMysticCaixas&7] &cUso correto: /chaves <Jogador>'
+sem-caixas: '&7[&aMysticCaixas&7] &cNao foram encontradas caixas para esse jogador.'
+info-chaves-header: '&7===== &aChaves de @player &7====='
+info-chaves-body: '&c@caixa &f---> &b@quantidade'
+info-chaves-footer: '&7==================='
+
+# COMANDO /darchaves
+uso-darchaves: '&7[&aMysticCaixas&7] &cUso correto: /darchaves <Jogador> <Caixa> <Quantidade>'
+somente-numero-valido: '&7[&aMysticCaixas&7] &cDigite um numero valido para a quantidade.'
+caixas-dadas: '&7[&aMysticCaixas&7] &aForam dadas &f@quantidade &achaves de &f@caixa &apara &f@player&a.'
+
+# COMANDO /desativacaixas /ativarcaixas
+ja-desativado: '&7[&aMysticCaixas&7] &cO sistema ja esta DESATIVADO.'
+desativado: '&7[&aMysticCaixas&7] &7O sistema foi &cDESATIVADO&7.'
+ja-ativado: '&7[&aMysticCaixas&7] &cO sistema ja esta ATIVADO.'
+ativado: '&7[&aMysticCaixas&7] &7O sistema foi &aATIVADO&7.'

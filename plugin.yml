@@ -1,0 +1,12 @@
+name: MysticCaixas
+version: 1.0.0
+main: mysticcaixas.MysticCaixas
+author: zDubsCrazy
+commands:
+  caixas:
+  setcaixa:
+  setcaixas:
+  chaves:
+  darchaves:
+  desativarcaixas:
+  ativarcaixas:

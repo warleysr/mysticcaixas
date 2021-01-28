@@ -1,0 +1,17 @@
+# Configura os itens em ordem CRESCENTE de chance
+caixa1:
+  local: world,100,100,100,4,4
+  titulo: '&cCaixa Topzinha'
+  itens:
+    item1:
+      chance: 60
+      tipo: diamond_sword
+      encantamentos:
+        damage_all: 5
+        fire_aspect: 2
+      nome: '&cEspada topzinha'
+      lore:
+      - '&aEspada Topzera &7ganhada na'
+      - '&7caixa paga &ctopzinha'
+      comandos: 
+      - 'say @player acaba de ganhar uma espada top! Parabens!'

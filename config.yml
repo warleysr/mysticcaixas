@@ -1,0 +1,32 @@
+mysql:
+  host: 'remotemysql.com'
+  port: 3306
+  user: 'qT6PXAHc2r'
+  pass: '3PMDqo8d9H'
+  db: 'qT6PXAHc2r'
+  reconectar: false
+item-girar:
+  slot: 22
+  tipo: ender_chest
+  nome: '&aGirar!'
+  lore:
+  - '&7Use uma chave para girar'
+  - '&7uma caixa e ganhe premios!'
+item-info:
+  slot: 43
+  tipo: ender_chest
+  nome: '&dQuantidade de chaves'
+  lore: 
+  - '&7Voce possui &c@quantidade &7chaves'
+  - '&7para essa caixa'
+item-padrao:
+  tipo: diamond
+  quantidade: 5
+vidros:
+  velocidade: 1
+  som: 
+    nome: BLOCK_NOTE_HARP
+    volume: 0.2
+    pitch: 2
+local: world,100,100,100,4,4
+enabled: true
